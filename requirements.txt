@@ -1,0 +1,3 @@
+duckduckgo_search==3.*
+Pillow==10.*
+fastdownload==0.0.*
