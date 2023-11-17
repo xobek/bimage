@@ -1,9 +1,9 @@
-
+<div align="center">
 ![bimage](https://i.imgur.com/JLCkwOe.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-bimage is Python CLI that lets finds and downloads images based on your query. 
-
+bimage is Python CLI that lets finds and downloads images in bulk based on your query. 
+</div>
 ## Installation
 
 Install the repo:
