@@ -3,7 +3,7 @@
 ![bimage](https://i.imgur.com/JLCkwOe.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-bimage is Python CLI that lets finds and downloads images in bulk based on your query. 
+bimage is a simple Python CLI that lets you find and download images in bulk based on your query. 
 </div>
 
 ## Installation
