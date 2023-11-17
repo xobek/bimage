@@ -9,7 +9,7 @@ bimage is Python CLI that lets finds and downloads images based on your query.
 Install the repo:
 
 ```sh
-pip install https://github.com/your-username/bimage.git
+pip install https://github.com/xobek/bimage.git
 ```
 
 
