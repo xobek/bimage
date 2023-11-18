@@ -14,7 +14,7 @@ setup(
     description='A simple image scraper for use in ML',
     long_description=README,
     author='xobek',
-    author_email='garbyow45@gmail.com',
+    author_email='xobekme@gmail.com',
     license="MIT",
     include_package_data=True,
     packages=find_packages(),
