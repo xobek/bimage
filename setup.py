@@ -10,10 +10,11 @@ with (LOCAL_PATH / "requirements.txt").open() as f:
 
 setup(
     name='bimage',
-    version='0.0.5',
-    description='A simple image scraper for use in ML',
+    version='0.1.0',
+    description='A bulk image scraper for use in ML',
     long_description=README,
     long_description_content_type='text/markdown',
+    url='https://github.com/xobek/bimage',
     author='xobek',
     author_email='xobekme@gmail.com',
     license="MIT",
